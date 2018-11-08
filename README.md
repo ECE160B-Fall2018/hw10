@@ -1,6 +1,6 @@
 # ECE160A - HW#10
 
-Questions 1-3 is for HW#10; 4-5 is for HW#11.
+Questions 1-3 is for HW#10; Questions 4-5 is for HW#11.  
 Due 11/17/18 at 11:59:59PM.  
 Late submissions are subject to a 10% late penalty.  
 
